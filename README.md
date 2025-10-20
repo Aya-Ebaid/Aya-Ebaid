@@ -1,5 +1,4 @@
 
-![Banner](https://your-image-link.com/banner.png)
 
 # 👋 Hi, I'm Aya Ebeid  
 ## 💻 Front-End Developer
