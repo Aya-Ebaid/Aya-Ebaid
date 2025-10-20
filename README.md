@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I'm Aya Ebeid  
+# 👋 Hi, I'm Aya Ebaid  
 ## 💻 Front-End Developer
 
 ---
