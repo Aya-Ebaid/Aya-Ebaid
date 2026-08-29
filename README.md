@@ -9,7 +9,8 @@
 - HTML  
 - CSS  
 - Bootstrap  
-- JavaScript  
+- JavaScript
+- React.js
 
 
 ---
