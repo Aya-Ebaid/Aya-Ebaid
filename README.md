@@ -17,7 +17,7 @@
 
 ### 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aya-Ebaid&layout=compact&theme=rose_pine)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Aya-Ebaid&layout=compact&theme=rose_pine)
 
 ---
 
