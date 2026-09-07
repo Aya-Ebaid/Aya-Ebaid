@@ -15,11 +15,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-
----
-
 ### 📫 Contact Me
 
 - 💼 LinkedIn: [Aya Ebaid](https://www.linkedin.com/in/aya-ebaid-7721b3270/?locale=en_US)  
