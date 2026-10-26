@@ -1,7 +1,7 @@
 
 
 # 👋 Hi, I'm Aya Ebaid  
-## 💻 Front-End Developer
+## 💻 Full Stack Developer
 
 ---
 
@@ -11,6 +11,10 @@
 - Bootstrap  
 - JavaScript
 - React.js
+- Node.js
+- Express.js
+- MongoDB
+- 
 
 
 ---
