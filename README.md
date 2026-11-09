@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I'm Aya Ebaid  
+# 👋 Hi, I'm Aya Gomaa Ebaid  
 ## 💻 Full Stack Developer
 
 ---
